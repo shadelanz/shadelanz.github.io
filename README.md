@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Future Imperfect" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/future-imperfect.jpg "Future Imperfect Theme")
+![Future Imperfect Theme](images/future-imperfect.jpg "Future Imperfect Theme")
 
 # How to Use
 
