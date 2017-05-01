@@ -1,4 +1,4 @@
-# Future Imperfect - Jekyll Theme
+# (WIP) Future Imperfect - Jekyll Theme
 
 A Jekyll version of the "Future Imperfect" theme by [HTML5 UP](https://html5up.net/).
 
